@@ -1,2 +1,3 @@
-# Dio-Santander-Bootcamp1
-Repositório para o desafio do Bootcamp DIO - Santander 2022
+# Desafio de projeto do Bootcamp DIO - Santander 2022 (Git / Github)
+
+Repositório criado para o desafio de projeto
